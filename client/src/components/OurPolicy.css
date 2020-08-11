@@ -1,0 +1,46 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  
+  html {
+    box-sizing: border-box;
+  }
+  
+
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px;
+  }
+  
+  .about-section {
+    padding: 60px;
+   
+    text-align: center;
+    background-color: 	#bff0c0;
+    color: white;
+  }
+  .p{
+    color: dimgrey;
+}
+  .h1{
+    color: black;
+
+  }
+  .h5{
+    color:black;
+  }
+
+  .title {
+    color: grey;
+  }
+
+  
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }

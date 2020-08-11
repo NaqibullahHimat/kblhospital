@@ -1,0 +1,20 @@
+.topHeader{
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: 	#9cec9e;
+}
+.headr{
+  padding-top: 20px;
+  margin-bottom: 10px;
+}
+
+.position{
+  margin-top: 8px;
+}
+
+
+.st:hover{
+  background-color: gray;
+  
+}
