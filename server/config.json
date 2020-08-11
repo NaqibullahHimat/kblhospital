@@ -1,0 +1,13 @@
+﻿{
+  "connectionString": "mongodb://localhost/kblHhospitals",
+  "secret": "123-4567890-321",
+  "emailFrom": "naqib.himat@gmail.com",
+  "smtpOptions": {
+    "host": "smtp.ethereal.email",
+    "port": 587,
+    "auth": {
+      "user": "kyra.blick68@ethereal.email",
+      "pass": "XmUSgQ4BatkdyktMsW"
+    }
+  }
+}
